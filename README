@@ -1,0 +1,5 @@
+Apportionment.py
+
+Calculates Congressional apportionment based on census data in the same method the US Census uses. 
+
+Not complete, still a few bugs but will usually end up with the right results
