@@ -3,3 +3,5 @@ Apportionment.py
 Calculates Congressional apportionment based on census data in the same method the US Census uses. 
 
 Not sure if Im just running with inaccurate data but it ends up with the right values for the 2010 data attached and closely matches the values published by the Census.
+
+For now, ignore the log and result files. They belong in a gitignore I havnt set yet.
