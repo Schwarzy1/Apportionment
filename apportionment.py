@@ -1,5 +1,5 @@
 ###############
-#	reps.py
+#	apportionment.py
 #	Proportionally distribute reps given:
 #	Total Population per State
 #	Max Total Reps
