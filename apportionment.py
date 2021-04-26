@@ -10,7 +10,7 @@ import math
 
 maxReps = 435
 totalReps = 0
-datafile = 'data/data2010_edit.csv'
+datafile = 'data/data2020_edit.csv'
 
 def numconv(x):
 	return float(x)
